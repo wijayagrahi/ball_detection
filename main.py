@@ -16,7 +16,7 @@ run_opencv_id = None
 
 
 window = tk.Tk()
-window.geometry('1600x1000')
+window.geometry('1200x700')
 
 # Create a custom style for the Notebook tabs
 style = ttk.Style()
@@ -111,7 +111,7 @@ scale_frame = ttk.Frame(tab2, width=300, height=300)
 
 
 # frame for the web cam
-web_cam_frame = ttk.Frame(tab2, width=800, height=800)
+web_cam_frame = ttk.Frame(tab2, width=600, height=600)
 
 
 
