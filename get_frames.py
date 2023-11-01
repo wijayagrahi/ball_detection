@@ -12,7 +12,7 @@ import numpy as np
 #vid = cv2.VideoCapture(0)
 
 # Declare the width and height in variables
-width, height = 800, 600
+width, height = 400, 300
 
 # Set the width and height
 #vid.set(cv2.CAP_PROP_FRAME_WIDTH, width)
